@@ -13,8 +13,6 @@ How does it work?
 
 - Share the link with unlimited multiple presenters. Invite presenters and enable them to control slides remotely using Cliqer. You can invite them in advance of your upcoming meeting or webinar or invite them real time.
 
-- Control the presenters realtime or chat with them. Enable/Disable any presenter real time using the website or installed Cliqer application. Chat with presenters or remind them on time left for their part during the meeting & webinar.
-
 Works with all conferencing tools
 Zoom, Microsoft Teams, Skype, Google Meet, GoToMeeting, Cisco Webex, Slack, BlueJeans etc.
 
