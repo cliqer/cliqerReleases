@@ -2,6 +2,8 @@
 
 Cliqer.io: https://cliqer.io
 
+Latest Releases: https://github.com/cliqer/cliqerReleases/releases/latest
+
 Control your presentations from anywhere in world. Advanced Multiple Presenters Internet Clicker Software.
 Supports Powerpoint, Keynote, vMix, Libre Office, Google Slides, Prezi, ZoHo Slides, Visme, Canva, Slidebean, Slides and any other software.
 
